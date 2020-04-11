@@ -1,0 +1,37 @@
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\bin\Debug\database.mdb
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\bin\Debug\project1.exe.config
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\bin\Debug\project1.exe
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\bin\Debug\project1.pdb
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\bin\Debug\project1.xml
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.vbprojAssemblyReference.cache
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.Resources.resources
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.vbproj.GenerateResource.cache
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.vbproj.CoreCompileInputs.cache
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.exe
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.xml
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.pdb
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.Form2.resources
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.Student_Information_Detail.resources
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.StudentGrade.resources
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.AdminForm.resources
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.AdminStu_details.resources
+C:\Users\Acer-PC\Desktop\Short Sem\Software Process\project1\project1\obj\Debug\project1.Form3.resources
+C:\Users\user\Desktop\project1\project1\bin\Debug\project1.exe.config
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.exe
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.xml
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.pdb
+C:\Users\user\Desktop\project1\project1\bin\Debug\database.mdb
+C:\Users\user\Desktop\project1\project1\bin\Debug\project1.exe
+C:\Users\user\Desktop\project1\project1\bin\Debug\project1.pdb
+C:\Users\user\Desktop\project1\project1\bin\Debug\project1.xml
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.AdminForm.resources
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.AdminStu_details.resources
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.Form2.resources
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.Form3.resources
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.Resources.resources
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.Student_Information_Detail.resources
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.StudentGrade.resources
+C:\Users\user\Desktop\project1\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
